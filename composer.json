@@ -6,10 +6,10 @@
   "homepage": "https://z17.dev/",
   "keywords": ["z17", "russian"],
   "support": {
-    "source": "https://github.com/z17/init-composer",
-    "issues": "https://github.com/z17/init-composer/issues",
-    "docs": "https://github.com/z17/init-composer/wiki",
-    "forum": "https://github.com/z17/init-composer/discussions"
+    "source": "https://github.com/z17dev/init-composer",
+    "issues": "https://github.com/z17dev/init-composer/issues",
+    "docs": "https://github.com/z17dev/init-composer/wiki",
+    "forum": "https://github.com/z17dev/init-composer/discussions"
   },
   "config": {
     "optimize-autoloader": true,
